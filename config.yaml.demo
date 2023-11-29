@@ -1,0 +1,6 @@
+# 邮件通知
+email:
+  smtpServer: # smtp服务器
+  smtpPort: # 端口
+  senderEmail: # 发送者邮箱
+  senderPassword: # 密码
